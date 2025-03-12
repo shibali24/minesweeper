@@ -64,7 +64,7 @@ fun MinesweeperGrid(viewModel: MinesweeperViewModel = viewModel()) {
 fun MinesweeperCell(cell: Cell, onCellClick: () -> Unit) {
     val imageRes = when {
         cell.isFlagged -> R.drawable.flag
-        cell.isRevealed && cell.isMine -> R.drawable.bomb // Shows bomb before game over
+        cell.isRevealed && cell.isMine -> R.drawable.selectedbomb
         cell.isRevealed && cell.nearbyMines > 0 -> // Display numbers
             when (cell.nearbyMines) {
                 1 -> R.drawable.one

@@ -68,7 +68,6 @@ class MinesweeperViewModel : ViewModel() {
 
     fun revealCell(x: Int, y: Int) {
         if (grid[y][x].isRevealed || grid[y][x].isFlagged || gameOver.value) return
-
         grid[y][x] = grid[y][x].copy(isRevealed = true)
 
         if (grid[y][x].isMine) {

@@ -25,10 +25,10 @@ This project is a **fully functional Minesweeper game**, featuring a **5x5 grid 
 ### **🏆 Winning the Game**
 - If all **mines are correctly flagged**, the game **displays a “You Win” screen**.
 
-### **🔄 Reset & Replay### **
+### **🔄 Reset & Replay###**
 - A **"Reset Board" button** allows players to start over at any time.
 
-### ** 👨‍💻 Developer ### **
+### **👨‍💻 Developer###**
 Shibali Mishra (@shibali24), smishra@bowdoin.edu
 
 ---

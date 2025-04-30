@@ -31,4 +31,9 @@ This project is a **fully functional Minesweeper game**, featuring a **5x5 grid 
 ### **👨‍💻 Developer**
 Shibali Mishra (@shibali24), smishra@bowdoin.edu
 
+### 📽 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/T__312NzEnA/0.jpg)](https://www.youtube.com/watch?v=T__312NzEnA)
+
+
 ---
